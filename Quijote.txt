@@ -1,8 +1,10 @@
-<<<<<<< HEAD
 CAMBIO ARRIBA
 
 CAMBIO 2
 
+CAMBIO ARRIBA TODO JUNTO
+
+<<<<<<< HEAD
 CAPÍTULO 1: Que trata de la condición y ejercicio del famoso hidalgo D. Quijote de la Mancha
 En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un
 hidalgo de los de lanza en astillero, adarga antigua, rocín flaco y galgo corredor. Una olla de algo
@@ -11,13 +13,15 @@ viernes, algún palomino de añadidura los domingos, consumían las tres partes 
 resto della concluían sayo de velarte, calzas de velludo para las fiestas con sus pantuflos de lo
 mismo, los días de entre semana se honraba con su vellori de lo más fino. Tenía en su casa una ama
 =======
-CAPÃ�TULO 1: Que trata de la condiciÃ³n y ejercicio del famoso hidalgo D. Quijote de la Mancha
+=======
+CAPÃTULO 1: Que trata de la condiciÃ³n y ejercicio del famoso hidalgo D. Quijote de la Mancha
 En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivÃ­a un
 hidalgo de los de lanza en astillero, adarga antigua, rocÃ­n flaco y galgo corredor. Una olla de algo
 mÃ¡s vaca que carnero, salpicÃ³n las mÃ¡s noches, duelos y quebrantos los sÃ¡bados, lentejas los
 viernes, algÃºn palomino de aÃ±adidura los domingos, consumÃ­an las tres partes de su hacienda. El
 resto della concluÃ­an sayo de velarte, calzas de velludo para las fiestas con sus pantuflos de lo
 mismo, los dÃ­as de entre semana se honraba con su vellori de lo mÃ¡s fino. TenÃ­a en su casa una ama
+>>>>>>> branch 'master' of https://github.com/FJaviG/cursogiteclipse.git
 >>>>>>> branch 'master' of https://github.com/FJaviG/cursogiteclipse.git
 que pasaba de los cuarenta, y una sobrina que no llegaba a los veinte, y un mozo de campo y plaza,
 que asÃ­ ensillaba el rocÃ­n como tomaba la podadera. Frisaba la edad de nuestro hidalgo con los
